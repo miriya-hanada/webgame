@@ -1,1 +1,1 @@
-# webgame
+# webgame.js
